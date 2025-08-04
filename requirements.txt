@@ -1,0 +1,7 @@
+cat > requirements.txt <<'EOF'
+flask
+pandas
+openpyxl
+pdfminer.six
+gunicorn
+EOF
